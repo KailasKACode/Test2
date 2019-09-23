@@ -1,0 +1,8 @@
+Git is a Distrubuted version control system
+Eclipse =working directory
+Stagging area=git add .
+local repo=git commit -m "First commit"
+
+Repository=it is folder that contains the data;
+1) local ==> master
+2) Remote repository===>Master copy
